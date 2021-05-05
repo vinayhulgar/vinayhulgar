@@ -3,7 +3,7 @@ A Software Engineer specializing in JavaScript technologies and AWS. Professiona
 
 🔭 I’m currently working on Health Insurance Project 
 
-🌱 I’m currently learning Python, Machine Learning
+🌱 I’m currently learning Python, Machine Learning & React
 
 💬 Ask me about Design, Coding, TDD, BDD
 
