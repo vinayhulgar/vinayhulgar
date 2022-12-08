@@ -1,9 +1,9 @@
 ### Hi there 👋
 A Software Engineer specializing in JavaScript technologies and AWS. Professional experience with the technologies listed in the toolbox below.
 
-🔭 I’m currently working on Health Insurance Project 
+🔭 I’m currently working on Health Project 
 
-🌱 I’m currently learning Python, Machine Learning & React
+🌱 I’m currently learning AWS & React
 
 💬 Ask me about Design, Coding, TDD, BDD
 
