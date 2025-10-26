@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have 14+ years of experience in Full Stack Development, primarily focusing on (backend development) Java, Spring Boot, and distributed systems. I specialize in designing scalable, secure, and high-availability APIs, working extensively with AWS, microservices, and database optimizations.
+I have 15+ years of experience in Full Stack Development, primarily focusing on (backend development) Java, Spring Boot, and distributed systems. I specialize in designing scalable, secure, and high-availability APIs, working extensively with AWS, microservices, and database optimizations.
 
 Currently, I work as a Software technologist, where i lead the development of a large scale application. My role involves designing apis, optimizing API performance, implementing Resilience4j for fault tolerance, and ensuring strict security compliance.
 
